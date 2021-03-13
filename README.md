@@ -1,3 +1,3 @@
 # Hello There! 👋🦄
 
-[![Renato's github stats](https://github-readme-stats.vercel.app/api?username=itsrennyman&show_icons=true)](https://github.com/itsrennyman/github-readme-stats)
+[![](https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif)](https://github.com/itsrennyman)
